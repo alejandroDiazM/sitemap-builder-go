@@ -52,4 +52,4 @@ Changing the text in between the <> marking will allow for you to make free use 
 
 Output example using "https://gophercises.com" as the url, with 3 as maximum depth:
 
-(insert screenshot here)
+![image](https://user-images.githubusercontent.com/102031726/183408390-23a72797-fddb-42a9-86f1-2f90480019de.png)
